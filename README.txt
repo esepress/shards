@@ -5,4 +5,4 @@ check out the official repository on GitHub:
 
 https://github.com/designrevision/shards-ui
 
-With love: https://github.com/technext
+With love: https://github.com/technext 
